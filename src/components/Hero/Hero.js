@@ -30,14 +30,14 @@ function Hero() {
             </p>
           </HeroLeft>
           <HeroRight>
-           
+
           </HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">
           <ScrollLink>
             Scroll down
             <img
-              src="https://i.imgur.com/n5CzvVj.png"
+              src="https://i.imgur.com/w2cV68M.png"
               alt="scroll-down"
             />
           </ScrollLink>

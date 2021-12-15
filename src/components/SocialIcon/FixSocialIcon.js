@@ -19,10 +19,10 @@ const Social = styled.div`
 
   a {
     font-size: 2rem;
-    color: rgb(119, 119, 121);
+    color: rgb(0,154,23);
     transition: 0.2s ease-in;
     &:hover {
-      color: rgb(57, 134, 250);
+      color: rgb(47,249,36);
     }
   }
 

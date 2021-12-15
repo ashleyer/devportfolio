@@ -44,22 +44,25 @@ export const HeroLeft = styled.div`
 
   h1 {
     font-size: 2.8rem;
-    color: #f6f6f6;
+    color: green;
     opacity: 0.98;
     font-weight: 400;
+    font-family: 'Tourney', cursive;
   }
 
   h5 {
     font-size: 1.6rem;
-    color: rgb(119, 119, 121);
+    color: green
     margin-bottom: 1rem;
     font-weight: 400;
+    font-family: 'Tourney', cursive;
   }
 
   p {
     font-size: 17px;
-    color: #f6f6f6;
+    color: green;
     opacity: 0.85;
+    font-family: 'Tourney', cursive;
   }
 
   @media screen and (max-width: 992px) {

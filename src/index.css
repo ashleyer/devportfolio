@@ -1,4 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=MuseoModerno:wght@100&family=Raleway:wght@300&family=Saira+Stencil+One&family=Tourney:wght@100&family=Zen+Kurenaido&family=Zen+Tokyo+Zoo&display=swap');
+
+/* CSS rules to specify families
+
+font-family: 'Comfortaa', cursive;
+font-family: 'MuseoModerno', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Saira Stencil One', cursive;
+font-family: 'Tourney', cursive;
+font-family: 'Zen Kurenaido', sans-serif;
+font-family: 'Zen Tokyo Zoo', cursive; */
+
 *,
 *::before,
 *::after {
@@ -8,18 +20,21 @@
   scroll-behavior: smooth;
 }
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: Zen Tokyo Zoo, cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #fafaff;
+  /* background-image: url('https://i.imgur.com/ZVOMEyI.jpg');
+  background-repeat: no-repeat; */
+
   font-weight: 400;
+  color: rgb(9, 69, 9);
 }
 
 main {
-  background: #151418;
-  background-image: url(https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/blob-haikei.svg);
-  background-repeat: no-repeat;
-  background-size: cover;
+
+  /* background-image: url(''); */
+  /* background-repeat: no-repeat;
+  background-size: cover; */
   width: 100%;
 }
 
@@ -32,6 +47,7 @@ a {
 ul,
 ol {
   list-style: none;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 
 article,
@@ -54,7 +70,9 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: 'Zen Tokyo Zoo', cursive; 
   font-size: 100%;
+  font-weight: normal;
   font-weight: normal;
 }
 
@@ -65,7 +83,8 @@ video {
 }
 
 .btn {
-  border: 2px solid rgb(57, 134, 250);
+  font-family: 'Zen Tokyo Zoo', cursive;
+  border: 4px double rgb(37, 176, 44);
   padding: 10px 1rem;
   border-radius: 5px;
   cursor: pointer;
@@ -75,17 +94,17 @@ video {
 }
 
 .PrimaryBtn {
-  background: rgb(57, 134, 250);
-  color: #f6f6f6;
+  background: rgba(247, 248, 247, 0.67);
+  color: #0a0a0a;
 }
 
 .PrimaryBtn:hover {
-  background: #fff;
+  background: rgb(30, 195, 200);
   color: #010606;
 }
 
 .SecondarBtn:hover {
-  background: rgb(57, 134, 250);
+  background: rgb(30, 195, 200);
   color: #fff;
 }
 
@@ -133,6 +152,7 @@ video {
   font-size: 28px;
   color: #151418;
   font-weight: 700;
+  font-family: 'Tourney', cursive;
   margin-bottom: 3.5rem;
 }
 .ProjectWrapper {

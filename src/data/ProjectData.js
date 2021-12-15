@@ -6,7 +6,7 @@ export const ProjectList = [
     description: "Browser-based game",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/ashleyer/mash",
-    demo_url: "https://your_project_demo_link",
+    //demo_url: "https://your_project_demo_link",
   },
   {
     img: "https://i.imgur.com/hYWseYut.png",
