@@ -10,4 +10,4 @@
 
 -must fix font and style throughout
 
--must make resume not editable, make sure it is downloadable
+-must add better README for github profile
