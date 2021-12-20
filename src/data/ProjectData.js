@@ -1,38 +1,48 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://i.imgur.com/4Y14hRut.png",
-    title: "MASH!",
+    img: "https://i.imgur.com/4Y14hRu.png?1",
+    title: "MASH",
     description: "Browser-based game",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/ashleyer/mash",
-    //demo_url: "https://your_project_demo_link",
+    demo_url: "https://ashleyer.github.io/mash/",
   },
   {
-    img: "https://i.imgur.com/hYWseYut.png",
+    img: "https://i.imgur.com/hYWseYu.png",
     title: "Zashlios News",
     description:
       "A refactor of the popular News site, Axios",
-    tech_stack: "MEN Stack",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    tech_stack: "MEN Stack: Mongodb, Express, Node",
+    github_url: "https://github.com/zachceneviva/news-application",
+    demo_url: "https://immense-refuge-73584.herokuapp.com/home",
   },
   {
-    img: "https://i.imgur.com/WcMCaLMt.png",
+    img: "https://i.imgur.com/xNiGD4G.png",
     title: "Almanack",
-    description: "",
-    tech_stack: "",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    description: "A multiple data-entity Travel app built to Client specs",
+    tech_stack: "Python, Django",
+    github_url: "https://github.com/kevin-mcmahon-dev/Almanack",
+    demo_url: "coming soon",
   },
   {
-    img: "https://i.imgur.com/1bwCmQKt.png",
-    title: "",
+    img: "https://i.imgur.com/DRohdgHb.png",
+    title: "Do It... or Else!",
     description:
-      "",
-    tech_stack: "",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "a productivity-generating Task List app backed by user-input secrets to be shared publicly if task is not completed",
+    tech_stack: "MERN: Mongodb, Express JS, React JS, Node",
+    github_url: "https://github.com/ashleyer/doitornowfrontend", 
+    //github_url: "https://github.com/ashleyer/doitnowserver",
+    demo_url: "coming soon",
+  },
+  {
+    img: "https://i.imgur.com/1bwCmQK.png",
+    title: "Developer Portfolio",
+    description:
+      "single page interactive React site for personal coding work references",
+    tech_stack: "React",
+    github_url: "https://github.com/ashleyer/devportfolio",
+    demo_url: "coming soon",
   },
 ];
 

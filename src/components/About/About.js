@@ -15,17 +15,15 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
-            alt="man-svgrepo"
+            src="https://i.imgur.com/jprG0MP.jpg"
+            alt="pic"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Ashley</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
+            Hello! My name is <strong>Ashley</strong>. I am a curious learner with advanced interpersonal skills, a refined sense of self-awareness, and a drive to further my Software Development abilities as an effective + positive presence within a new workplace. 
+
+            Strengths do <strong>not</strong> include: producing quantity over quality, thinking about myself instead of others, dependency, and not wondering "why?". As an ENTP personality type, I can see what something could be instead of blindly accepting what it is. Learning excites me, and I seek a teacher. I want to experience a brave professional environment that expects constant learning of its members in order to gain info, distill insight, and challenge the status quo. My current goal is to expand my Web Development skills thru a workplace that strives to be positively influential to its employees and the world. Further strengths include tenacity, calmness under stress, adapting quickly, being interpersonally effective, and brainstorming innovative ideas.
+
+
           </div>
           <div className="AboutBio tagline2">
             My Technologies:

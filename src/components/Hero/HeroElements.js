@@ -48,7 +48,7 @@ export const HeroLeft = styled.div`
     color: green;
     opacity: 0.98;
     font-weight: 400;
-    font-family: 'Tourney', cursive;
+  
   }
 
   h5 {
@@ -56,14 +56,14 @@ export const HeroLeft = styled.div`
     color: green
     margin-bottom: 1rem;
     font-weight: 400;
-    font-family: 'Tourney', cursive;
+   
   }
 
   p {
     font-size: 17px;
     color: green;
     opacity: 0.85;
-    font-family: 'Tourney', cursive;
+   
   }
 
   @media screen and (max-width: 992px) {
@@ -119,6 +119,7 @@ export const ScrollLink = styled.div`
   color: #f6f6f6;
 
   img {
+    url(https://i.imgur.com/jprG0MP.jpg)
     height: 35px;
     width: 35px;
     margin-left: 6px;
