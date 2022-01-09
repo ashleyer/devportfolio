@@ -21,8 +21,7 @@ export const CardLeft = styled.div`
   justify-self: center;
 
   img {
-    border-radius: 3px;
-    height: auto;
+  
   }
 `;
 
