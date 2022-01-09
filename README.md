@@ -1,12 +1,4 @@
 **Portfolio**
-Live Preview - [Click Here](https://gportfolio.vercel.app)
-
-<br/>
-<div align="center">
-  <img alt="Demo" src="public/mockup.png" />
-</div>
-<br/>
-<br/>
 
 # 🛠 Installation and Setup Instructions
 
