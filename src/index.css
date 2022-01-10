@@ -20,13 +20,13 @@ font-family: 'Zen Tokyo Zoo', cursive; */
   scroll-behavior: smooth;
 }
 body {
-  /* font-family: Zen Tokyo Zoo, cursive; */
+  font-family: 'Zen Tokyo Zoo', cursive; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* background-image: url('https://i.imgur.com/ZVOMEyI.jpg');
   background-repeat: no-repeat; */
 
-  font-weight: 400;
+  font-weight: 700;
   color: rgb(9, 69, 9);
 }
 
@@ -39,7 +39,7 @@ main {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: double;
   color: inherit;
   background-color: transparent;
 }
@@ -47,7 +47,7 @@ a {
 ul,
 ol {
   list-style: none;
-  /* font-family: 'Zen Kurenaido', sans-serif; */
+font-family: ''Zen Kurenaido', sans-serif;' 
 }
 
 article,
