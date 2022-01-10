@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://ashleyer.github.io/mash/",
   },
   {
-    img: "https://i.imgur.com/hYWseYu.png",
+    img: "https://i.imgur.com/8PFd7BJh.png",
     title: "Zashlios News",
     description:
       "A refactor of the popular News site, Axios",

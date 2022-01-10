@@ -75,12 +75,12 @@ h6 {
   font-weight: normal;
   font-weight: normal;
 }
-/* 
+
 img,
 video {
   display: block;
   max-width: 100%;
-} */
+}
 
 .btn {
  
@@ -130,8 +130,8 @@ video {
   flex-direction: column;
   background: #fff;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
-  /* box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
-    0 4px 6px -2px rgba(0, 0, 0, 0.05); */
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 .AboutBio,
@@ -150,9 +150,8 @@ video {
 
 .SectionTitle {
   font-size: 28px;
-  color: #151418;
+  color: black;
   font-weight: 700;
-  
   margin-bottom: 3.5rem;
 }
 .ProjectWrapper {
