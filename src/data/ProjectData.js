@@ -13,8 +13,6 @@ export const ProjectList = [
     title: "Zashlios News",
     description:
       "A refactor of the popular News site, Axios",
-    tech_stack: "MEN Stack: Mongodb, Express, Node",
-    github_url: "https://github.com/zachceneviva/news-application",
     demo_url: "https://immense-refuge-73584.herokuapp.com/home",
   },
   {

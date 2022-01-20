@@ -34,12 +34,10 @@ function Hero() {
           </HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">
-          <ScrollLink>
             <img
               src="https://i.imgur.com/w2cV68M.png"
               alt="scroll-down"
             />
-          </ScrollLink>
         </ScrollDown>
       </HeroContainer>
     </main>
