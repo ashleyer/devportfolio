@@ -48,7 +48,6 @@ export const HeroLeft = styled.div`
     color: green;
     opacity: 0.98;
     font-weight: 400;
-  
   }
 
   h5 {
@@ -56,14 +55,12 @@ export const HeroLeft = styled.div`
     color: green
     margin-bottom: 1rem;
     font-weight: 400;
-   
   }
 
   p {
     font-size: 17px;
     color: green;
     opacity: 0.85;
-   
   }
 
   @media screen and (max-width: 992px) {
