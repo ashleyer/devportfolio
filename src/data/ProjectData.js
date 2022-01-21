@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://i.imgur.com/4Y14hRu.png?1",
+    img: "https://i.imgur.com/p2kiJOD.png",
     title: "MASH",
     description: "Browser-based game",
     tech_stack: "Html, Css, Javascript",
@@ -9,25 +9,15 @@ export const ProjectList = [
     demo_url: "https://ashleyer.github.io/mash/",
   },
   {
-    img: "https://i.imgur.com/8PFd7BJh.png",
+    img: "https://i.imgur.com/t7YojiBm.png",
     title: "Zashlios News",
     description:
       "A refactor of the popular News site, Axios",
-    tech_stack: "MEN Stack: Mongodb, Express, Node",
-    github_url: "https://github.com/zachceneviva/news-application",
     demo_url: "https://immense-refuge-73584.herokuapp.com/home",
   },
   {
-    img: "https://i.imgur.com/xNiGD4G.png",
-    title: "Almanack",
-    description: "A multiple data-entity Travel app built to Client specs",
-    tech_stack: "Python, Django",
-    github_url: "https://github.com/kevin-mcmahon-dev/Almanack",
-    demo_url: "coming soon",
-  },
-  {
-    img: "https://i.imgur.com/DRohdgHb.png",
-    title: "Do It... or Else!",
+    img: "https://i.imgur.com/gqwa6b5.png",
+    title: "Do It! or Else...",
     description:
       "a productivity-generating Task List app backed by user-input secrets to be shared publicly if task is not completed",
     tech_stack: "MERN: Mongodb, Express JS, React JS, Node",
@@ -36,13 +26,13 @@ export const ProjectList = [
     demo_url: "coming soon",
   },
   {
-    img: "https://i.imgur.com/1bwCmQK.png",
+    img: "https://i.imgur.com/9w1H8qY.png",
     title: "Developer Portfolio",
     description:
       "single page interactive React site for personal coding work references",
     tech_stack: "React",
     github_url: "https://github.com/ashleyer/devportfolio",
-    demo_url: "coming soon",
+    demo_url: "https://ashleyer.github.io/devportfolio/",
   },
 ];
 
