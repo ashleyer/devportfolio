@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const FooterSection = styled.div`
-  background-image: url(https://i.imgur.com/ZVOMEyI.jpg);
+  background-image: url(https://i.imgur.com/EdeQBHI.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -12,10 +12,12 @@ const FooterSection = styled.div`
   span {
     position: absolute;
     bottom: 4rem;
-    color: #fff;
+    
 
     a {
-      text-decoration: underline;
+      text-decoration: underline bold;
+      font-size: 20px;
+   
     }
   }
 `;

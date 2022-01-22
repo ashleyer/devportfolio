@@ -11,21 +11,21 @@ export const Email = styled.div`
   justify-content: space-around;
 
   span {
-    font-size: 1rem;
+    font-size: 5em;
     font-weight: 500;
-    margin-bottom: 1rem;
+    margin-bottom: 1 rem;
   }
 
   @media (min-width: 576px) {
     span {
-      font-size: 1.5rem;
+      font-size: 3 rem;
     }
   }
   @media (min-width: 992px) {
     flex-direction: row;
     span {
       margin-bottom: 0;
-      font-size: 3rem;
+      font-size: 6rem;
     }
   }
 `;

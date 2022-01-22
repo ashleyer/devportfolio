@@ -36,13 +36,14 @@ export const NavMenu = styled.div`
 
   .menu-item + .menu-item {
     margin-top: 2rem;
+    margin-left: 3 rem;
   }
 `;
 
 export const NavLink = styled(ScrollLink)`
   color: #fff;
   cursor: pointer;
-  font-size: 1.7rem;
+  font-size: 2.4rem;
 
   &:hover {
     color: rgb(119, 119, 121);
@@ -53,7 +54,7 @@ export const NavBtn = styled.div`
   display: flex;
   justify-content: center;
   margin-top: 5rem;
-  font-size: 1.7rem;
+  font-size: 4 rem;
 `;
 
 function Dropdown({ isOpen, toggle }) {

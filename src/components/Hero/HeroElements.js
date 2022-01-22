@@ -117,8 +117,8 @@ export const ScrollLink = styled.div`
 
   img {
     url(https://i.imgur.com/jprG0MP.jpg)
-    height: 35px;
-    width: 35px;
+    height: 600px;
+    width: 425px;
     margin-left: 6px;
   }
 `;

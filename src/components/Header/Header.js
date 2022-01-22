@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
     <div className="Container">
       <Nav>
       <div className="logo">
-          <img class='logoimg' src='https://i.imgur.com/n5CzvVjt.png' alt='logo'/>
+          <img class='logoimg' src='https://i.imgur.com/sYJisg7.png' alt='logo'/>
         </div>
         <NavMenu>
           <NavLink className="menu-item" to="projects" smooth={true}>

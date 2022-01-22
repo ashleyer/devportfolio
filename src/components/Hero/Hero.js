@@ -35,7 +35,7 @@ function Hero() {
         </HeroWrapper>
         <ScrollDown to="projects">
             <img
-              src="https://i.imgur.com/w2cV68M.png"
+              src="https://i.imgur.com/aVRkOHk.png?1"
               alt="scroll-down"
             />
         </ScrollDown>
