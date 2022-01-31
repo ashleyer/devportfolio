@@ -31,9 +31,13 @@ body {
   font-family: 'Iceland', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+
+
   font-weight: 700;
   color: rgb(9, 69, 9);
 }
+
 
 a {
   font-family: 'Odibee Sans', cursive;
@@ -45,6 +49,7 @@ a {
 ul,
 ol {
   list-style: none;
+  
 }
 
 article,
@@ -67,12 +72,14 @@ h5 {
 
 h1 {
   font-family: 'Nixie One', cursive;
-}
 
+}
 h2,
 h3,
 h4,
+
 h6 {
+ 
   font-size: 100%;
   font-weight: normal;
   font-weight: normal;
@@ -85,6 +92,7 @@ video {
 }
 
 .btn {
+ 
   border: 4px double rgb(37, 176, 44);
   padding: 10px 1rem;
   border-radius: 5px;
@@ -95,17 +103,17 @@ video {
 }
 
 .PrimaryBtn {
-  background: gray(247, 248, 247, 0.67);
+  background: rgba(247, 248, 247, 0.67);
   color: #0a0a0a;
 }
 
 .PrimaryBtn:hover {
-  background: gray(30, 195, 200);
+  background: rgb(30, 195, 200);
   color: #010606;
 }
 
 .SecondarBtn:hover {
-  background: gray(30, 195, 200);
+  background: rgb(30, 195, 200);
   color: #fff;
 }
 
@@ -130,40 +138,31 @@ video {
   display: flex;
   flex-direction: column;
   background: #fff;
-  box-shadow: green(0, 0, 0, 0.05) 0px 5px 10px;
-  box-shadow: 0 10px 15px -3px green(0, 0, 0, 0.1),
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
     0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 .AboutBio,
 .tagline2 {
   text-align: center;
-  max-width: 700px;
+  max-width: 650px;
   margin: 0 auto;
   color: #151418;
-  line-height: 1.8;
-  padding-top: 20px;
+  line-height: 1.6;
 }
 
 .tagline2 {
-  font-family: 'Big Shoulders Inline Text', cursive;
-  font-size: 40px;
-  margin-top: 10rem;
+  margin-top: 1rem;
   margin-bottom: 2rem;
-  color: green;
-  text-align: center;
 }
 
 .SectionTitle {
-  font-family: 'Big Shoulders Inline Text', cursive;
-  color: green;
-  font-size: 44px;
-  font-weight: 900;
+  font-size: 28px;
+  color: black;
+  font-weight: 700;
   margin-bottom: 3.5rem;
-  text-align: center;
-  text-decoration: underline double green;
 }
-
 .ProjectWrapper {
   margin-top: -1rem;
 }

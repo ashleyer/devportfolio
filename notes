@@ -1,0 +1,6 @@
+git branch -m gh-pages <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
+
+Your current GitHub Pages site will become unpublished. A new commit on the renamed branch will publish the GitHub Pages site again.

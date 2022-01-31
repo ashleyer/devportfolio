@@ -2,10 +2,10 @@ import styled, { keyframes } from "styled-components";
 import { Link as LinkScroll } from "react-scroll";
 
 export const HeroContainer = styled.div`
-  padding-bottom: 2rem;
+  padding-bottom: 10rem;
   padding-top: 4rem;
-  padding-right: 1rem;
-  padding-left: 1rem;
+  padding-right: 10rem;
+  padding-left: 10rem;
   margin-right: auto;
   margin-left: auto;
   display: flex;
@@ -44,21 +44,31 @@ export const HeroLeft = styled.div`
   
 
   h1 {
-    font-size: 2.8rem;
+    font-family: 'Tourney', cursive;
+    font-size: 2.7rem;
     color: green;
     opacity: 0.98;
-    font-weight: 400;
+    font-weight: 900;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: double underline;
+    text-decoration-thickness: 2px;
+
   }
 
   h5 {
-    font-size: 1.6rem;
-    color: green
+    font-family: 'Iceland', cursive;
+    font-size: 1.7rem;
+    color: green;
     margin-bottom: 1rem;
-    font-weight: 400;
+    font-weight: 800;
+    padding: 0px;
+    margin: 0px;
   }
 
   p {
-    font-size: 17px;
+    'Big Shoulders Inline Text', cursive;
+    font-size: 21px;
     color: green;
     opacity: 0.85;
   }
@@ -116,9 +126,9 @@ export const ScrollLink = styled.div`
   color: #f6f6f6;
 
   img {
-    url(https://i.imgur.com/jprG0MP.jpg)
-    height: 35px;
-    width: 35px;
+    url(https://i.imgur.com/8lvliDK.png)
+    height: 10px;
+    width: 10px;
     margin-left: 6px;
   }
 `;

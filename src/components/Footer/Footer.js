@@ -2,19 +2,26 @@ import React from "react";
 import styled from "styled-components";
 
 const FooterSection = styled.div`
-  background-image: url(https://i.imgur.com/ZVOMEyI.jpg);
+  background-image: url(https://i.imgur.com/FP1AYtQ.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 250px;
+  height: 350px;
   position: relative;
+ 
 
   span {
     position: absolute;
-    bottom: 4rem;
-    color: #fff;
+    bottom: 1rem;
+    color: black;
+    font-size: 34px;
+    background-color: white;
+  
+
+
 
     a {
+      color: black;
       text-decoration: underline;
     }
   }

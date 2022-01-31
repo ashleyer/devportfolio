@@ -2,10 +2,12 @@ import styled from "styled-components";
 
 export const ContactWrapper = styled.div`
   margin-top: 5rem;
+  font-size: 20px;
+  
 `;
 
 export const Image = styled.img`
-  max-width: 120px;
+  max-width: 240px;
   margin: 0 auto;
   margin-bottom: 1rem;
 `;
@@ -29,10 +31,10 @@ export const Tech = styled.div`
 `;
 
 export const TechImg = styled.img`
-  height: 50px;
-  width: 50px;
+  height: 80px;
+  width: 80px;
 `;
 
 export const TechName = styled.div`
-  font-size: 14px;
+  font-size: 19px;
 `;
