@@ -95,17 +95,17 @@ video {
 }
 
 .PrimaryBtn {
-  background: rgba(247, 248, 247, 0.67);
+  background: gray(247, 248, 247, 0.67);
   color: #0a0a0a;
 }
 
 .PrimaryBtn:hover {
-  background: rgb(30, 195, 200);
+  background: gray(30, 195, 200);
   color: #010606;
 }
 
 .SecondarBtn:hover {
-  background: rgb(30, 195, 200);
+  background: gray(30, 195, 200);
   color: #fff;
 }
 
@@ -130,30 +130,38 @@ video {
   display: flex;
   flex-direction: column;
   background: #fff;
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+  box-shadow: green(0, 0, 0, 0.05) 0px 5px 10px;
+  box-shadow: 0 10px 15px -3px green(0, 0, 0, 0.1),
     0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 .AboutBio,
 .tagline2 {
   text-align: center;
-  max-width: 650px;
+  max-width: 700px;
   margin: 0 auto;
   color: #151418;
-  line-height: 1.6;
+  line-height: 1.8;
+  padding-top: 20px;
 }
 
 .tagline2 {
-  margin-top: 1rem;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-size: 40px;
+  margin-top: 10rem;
   margin-bottom: 2rem;
+  color: green;
+  text-align: center;
 }
 
 .SectionTitle {
-  font-size: 28px;
-  color: black;
-  font-weight: 700;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  color: green;
+  font-size: 44px;
+  font-weight: 900;
   margin-bottom: 3.5rem;
+  text-align: center;
+  text-decoration: underline double green;
 }
 
 .ProjectWrapper {

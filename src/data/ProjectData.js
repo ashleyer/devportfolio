@@ -26,7 +26,7 @@ export const ProjectList = [
     demo_url: "coming soon",
   },
   {
-    img: "https://i.imgur.com/9w1H8qY.png",
+    img: "https://i.imgur.com/usaUDwQm.png",
     title: "Developer Portfolio",
     description:
       "single page interactive React site for personal coding work references",
