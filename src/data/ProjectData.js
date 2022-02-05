@@ -13,6 +13,7 @@ export const ProjectList = [
     title: "Zashlios News",
     description:
       "A refactor of the popular News site, Axios",
+    tech_stack: "MEN: Mongodb, Express JS, Node",
     demo_url: "https://immense-refuge-73584.herokuapp.com/home",
   },
   {
@@ -30,7 +31,7 @@ export const ProjectList = [
     title: "Developer Portfolio",
     description:
       "single page interactive React site for personal coding work references",
-    tech_stack: "React",
+    tech_stack: "React Single Page Responsive",
     github_url: "https://github.com/ashleyer/devportfolio",
     demo_url: "https://ashleyer.github.io/devportfolio/",
   },
