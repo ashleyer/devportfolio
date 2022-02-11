@@ -7,11 +7,12 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "babel": "^6.23.0",
-    "node": "^17.3.1",
+    "gh-pages": "^3.2.3",
+    "node": "^17.4.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
-    "react-router-dom": "^5.2.1",
+    "react-router-dom": "^6.2.1",
     "react-scripts": "^5.0.0",
     "react-scroll": "^1.8.4",
     "styled-components": "^5.3.1",
@@ -37,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "https://ashleyer.github.io/devportfolio",
+  "repository": "https://github.com/ashleyer/devportfolio.git",
+  "author": "ashleyromano <ashleye.romano@gmail.com>",
+  "license": "MIT"
 }
