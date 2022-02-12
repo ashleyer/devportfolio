@@ -31,7 +31,6 @@ body {
   font-family: 'Iceland', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-weight: 700;
   color: rgb(9, 69, 9);
 }
 
@@ -62,7 +61,7 @@ section {
 }
 
 h5 {
-  font-family: 'Odibee Sans', cursive;
+  font-family: 'Coda', cursive;
 }
 
 h1 {
@@ -155,10 +154,10 @@ video {
 }
 
 .SectionTitle {
-  font-family: 'Big Shoulders Inline Text', cursive;
+  font-family: 'Zen Tokyo Zoo', cursive;
   color: green;
   font-size: 44px;
-  font-weight: 900;
+ 
   margin-bottom: 3.5rem;
   text-align: center;
   text-decoration: underline double green;
@@ -167,6 +166,15 @@ video {
 .ProjectWrapper {
   margin-top: -1rem;
 }
+
+.highlight0,
+.highlight1, .highlight2 {
+  font-family: 'Zen Tokyo Zoo', cursive;
+  font-size: 27px;
+  color: green;
+}
+
+
 
 /* ------------------------------------ Media for Container */
 @media (min-width: 576px) {
